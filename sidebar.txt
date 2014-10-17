@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vki:home|Door43 (vki)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vki|d43-vki repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vki/archive/master.zip|d43-vki.zip]]
+
+**Recent Changes**
+{{changes>ns = vki}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vki|Ethnologue data]]
+
